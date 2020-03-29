@@ -18,6 +18,6 @@ Sumber pola didapat dari berbagai tempat,  bukan milik `cekdiri`.
 Thanks to
 ---
 
-mas [@desem](https://twitter.com/desem) yang menyumbang [pola](../blob/master/pola/Hazmat Suite Pattern.pdf).
+mas [@desem](https://twitter.com/desem) yang menyumbang [pola](../blob/master/pola/Hazmat_Suite_Pattern.pdf).
 
 tim [@mamajahit](https://twitter.com/mamajahit) yang menginisiasi gerakan di Jogja.
